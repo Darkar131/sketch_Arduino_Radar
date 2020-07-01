@@ -16,8 +16,9 @@
   
   6.)Bunch of jumping wires (male-male, male-female)
   
-  
+  -------------------------
   Programs you will need:
+  
   1.)Arduino Program 
   https://www.arduino.cc/en/Main/Software?
   
