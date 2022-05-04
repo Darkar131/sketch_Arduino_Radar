@@ -24,7 +24,7 @@ int index1=0;
 int index2=0;
 PFont orcFont;
 void setup() {
-  
+ 
  size (1080, 720); // ***CHANGE THIS TO YOUR SCREEN RESOLUTION***
  smooth();
  myPort = new Serial(this,"COM5", 9600); // starts the serial communication
