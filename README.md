@@ -22,7 +22,7 @@
   1.)Arduino Program 
   https://www.arduino.cc/en/Main/Software?
   
-  2.)Processing 3 (3.3.7 most recent update)
+  2.)Processing 3 (3.5.4 most recent update)
   https://processing.org/download/
   
   To put together the arduino look for the picture in the Arduino_Ra_Build file 
